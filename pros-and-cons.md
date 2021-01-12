@@ -1,0 +1,21 @@
+Pros:	| Cons:
+- possibly more stable than the USD | |	- more volatile than holding assets (stocks/real estate)
+- pseudonymous |	- not fully anonymous
+- send money across the planet more easily (no dependence on big banks with ATMs?) |	- 
+- drugs are not a justice problem - they’re mental health problems |	- 
+- whistle blowers should not be hunted |	- 
+- BTC - limited supply (value cannot be reduced by authority) |	- 
+- ETH - smart contracts |	- 
+- |	- complicated (can’t just swipe your debit card yet)
+- |	- BTC - slow
+- |	- lots of scams
+- cannot print more, so gov cannot devalue to prioritize survival of big companies/banks |	- 
+- hash256 is hard to crack (3blue1brown) |	- SHA-0 (2^61) was pretty bad in 2008 (1 hour to crack), 
+- SHA-1 (2^160) was considered obsolete in 2011
+- SHA-2 (2^256)… when it becomes obsolete, then so does the crypto built on it, right?
+- if you could crack SHA-1 in 2011, and now crypto uses SHA-2… it should take about… 87 years, right?
+- but if SHA-0 was trivial in 2008, and SHA-1 was unsafe in 2011… maybe that trajectory is only for generalized computing? So maybe SHA-cracking has its own specific type of machine?
+- but maybe that kind of machine will only be doubling processor ability once every two years, still? |	- Moore’s law - density of transistors in a circuit doubles about every two years…
+- digital gold ties crypto currency to gold |	- but then the crypto will be used to buy gold, and that could possibly reduce the supply and increase the supply of gold…  I guess it’s fine for transferring things over long distances somewhat slowly (relative to most internet transfers)
+- seem to have people who talk about it like a religion online… |	- religion is the opiate of the masses
+- 	- if I haven’t really ‘gotten it’ after this much research, what are the chances $0.5T USD worth of investors actually ‘get it’? Probably not a large percentage. Adds volatility FOR SURE.
