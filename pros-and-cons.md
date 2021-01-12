@@ -1,4 +1,5 @@
 Pros:	| Cons:
+--- | ---
 - possibly more stable than the USD | |	- more volatile than holding assets (stocks/real estate)
 - pseudonymous |	- not fully anonymous
 - send money across the planet more easily (no dependence on big banks with ATMs?) |	- 
