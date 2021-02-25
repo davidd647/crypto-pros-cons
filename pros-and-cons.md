@@ -82,6 +82,10 @@
 ## Crypto, but specifically non-BTC:
 <table>
   <tr>
+    <td>Pros:</td>
+    <td>Cons:</td>
+  </tr>
+  <tr>
     <td>ETH - smart contracts create opportunity for something amazing</td>
     <td>Increased complexity and volatility</td>
   </tr>
