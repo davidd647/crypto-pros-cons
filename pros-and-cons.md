@@ -74,8 +74,8 @@
     <td>- If I haven’t really ‘gotten it’ after this much research, what are the chances $0.5T USD worth of investors actually ‘get it’? I feel like it's a low percentage. Adds volatility FOR SURE.</td>
   </tr>
   <tr>
-    <td>- Seem to have people who talk about it like a religion online…</td>
-    <td>- Organized religion can be pretty weird sometimes.</td>
+    <td>- Seem to have people who talk about it like a religion online - which could increase its value…</td>
+    <td>- Religions can be unpredictable sometimes.</td>
   </tr>
 </table>
 
