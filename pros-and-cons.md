@@ -77,6 +77,14 @@
     <td>- Seem to have people who talk about it like a religion online - which could increase its value…</td>
     <td>- Religions can be unpredictable sometimes.</td>
   </tr>
+  <tr>
+    <td></td>
+    <td>Risk of government outlawing its use (e.g. China)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ## Crypto, but specifically non-BTC:
